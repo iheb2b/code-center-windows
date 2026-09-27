@@ -9,6 +9,10 @@
 
 [Release notes](https://github.com/iheb2b/code-center-windows/releases/latest) · [SHA-256 checksums](https://github.com/iheb2b/code-center-windows/releases/latest/download/SHA256SUMS.txt)
 
+## Demo
+
+![Code Center demo: repo, notch, dashboard, and release assets](docs/demo/code-center-demo.gif)
+
 A Windows evolution of [Codenotch](https://github.com/vinzdg/codenotch) — the usage notch that
 sits on the edge of your screen and answers three questions at a glance:
 **what needs me**, **what is still working**, and **how much AI allowance is left**.
